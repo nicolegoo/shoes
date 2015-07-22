@@ -1,2 +1,7 @@
 # shoes
-Shoes I want to buuy
+Shoes I want to buy
+- wedges
+- flats
+- booties
+- sandals
+
